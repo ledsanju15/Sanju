@@ -22,6 +22,7 @@ It’s easy to see why Kanban has become an essential project management tool. A
 The 2022 State of Agile Report shows an explosive growth in the use of Kanban—up from 7% of respondents in 2020 to 56% in 2022. 
 [Kanban use by remote teams](https://www.toptal.com/project-managers/agile-team-lead/agile-retrospective-remote-teams)
 Considering the global shift to remote work that happened in 2020, part of that increase is no doubt due to Kanban use by remote teams.
+
 [going hybrid](https://www.toptal.com/project-managers/agile/hybrid-project-management-a-middle-ground-between-agile-and-waterfall)
 That said, even with many businesses going hybrid or returning to the office, Kanban is still increasing in popularity. 
 [the most recent State of Kanban Report](https://kanban.university/wp-content/uploads/2022/10/State-of-Kanban-Report-2022.pdf)

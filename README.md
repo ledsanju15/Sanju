@@ -7,12 +7,9 @@ become increasingly complex as organizations grow and begin to operate at scale.
 [Kanban](https://www.toptal.com/project-managers/freelance)
 [Project Managers](https://www.toptal.com/project-managers/freelance) are routinely tasked with handling uncertainty, to the point that adaptability is a [core competency](https://www.sciencedirect.com/science/article/pii/S2666721521000065) for the profession. Throughout all of this complexity, Kanban has remained a keystone of the management world for more than 60 years, enabling project professionals to maintain a clear, high-level view of processes.
 
-[adaptable workflow](https://www.toptal.com/project-managers/digital/digital-transformation-project-manager-guide)
-[hybridized with](https://www.productplan.com/glossary/scrumban/)
-[other frameworks](https://www.productplan.com/glossary/scrumban/)
-[scaling to an enterprise](https://businessmap.io/blog/scaling-kanban-across-an-organization)
+
 [serving as the bridge](https://www.nimblework.com/blog/waterfall-to-agile-with-kanban/)
-It’s easy to see why Kanban has become an essential project management tool. As a lightweight and adaptable workflow method, it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being hybridized with other frameworks, scaling to an enterprise level, or even serving as the bridge to take organizations from Waterfall to Agile processes.
+It’s easy to see why Kanban has become an essential project management tool. As a lightweight and adaptable [adaptable workflow](https://www.toptal.com/project-managers/digital/digital-transformation-project-manager-guide), it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being [hybridized with](https://www.productplan.com/glossary/scrumban/) [other frameworks](https://www.productplan.com/glossary/scrumban/), [scaling to an enterprise](https://businessmap.io/blog/scaling-kanban-across-an-organization), or even [serving as the bridge](https://www.nimblework.com/blog/waterfall-to-agile-with-kanban/)to take organizations from Waterfall to Agile processes.
 
 ![alt text](https://bs-uploads.toptal.io/blackfish-uploads/public-files/Untitled-c1c5294701185de6bfc2ad3e915e4861.png?fbclid=IwAR3aElh3icbdvoED5h2tfkdSYiK2cyp6KYK7R-PMXRE63pyYc_n0OA_O46s)
 

@@ -4,10 +4,8 @@ From auto manufacturing in the 1950s to the modern digital workplace, Kanban’s
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices)
 become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
-[Project Managers](https://www.toptal.com/project-managers/freelance)
-[core competency](https://www.sciencedirect.com/science/article/pii/S2666721521000065)
 [Kanban](https://www.toptal.com/project-managers/freelance)
-Project managers are routinely tasked with handling uncertainty, to the point that adaptability is a core competency for the profession. Throughout all of this complexity, Kanban has remained a keystone of the management world for more than 60 years, enabling project professionals to maintain a clear, high-level view of processes.
+[Project Managers](https://www.toptal.com/project-managers/freelance) are routinely tasked with handling uncertainty, to the point that adaptability is a [core competency](https://www.sciencedirect.com/science/article/pii/S2666721521000065) for the profession. Throughout all of this complexity, Kanban has remained a keystone of the management world for more than 60 years, enabling project professionals to maintain a clear, high-level view of processes.
 
 [adaptable workflow](https://www.toptal.com/project-managers/digital/digital-transformation-project-manager-guide)
 [hybridized with](https://www.productplan.com/glossary/scrumban/)

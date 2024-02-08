@@ -19,9 +19,10 @@ It’s easy to see why Kanban has become an essential project management tool. A
 ![alt text](https://bs-uploads.toptal.io/blackfish-uploads/public-files/Untitled-c1c5294701185de6bfc2ad3e915e4861.png?fbclid=IwAR3aElh3icbdvoED5h2tfkdSYiK2cyp6KYK7R-PMXRE63pyYc_n0OA_O46s)
 
 [2022 State of Agile Report](https://info.digital.ai/rs/981-LQX-968/images/AR-SA-2022-16th-Annual-State-Of-Agile-Report.pdf)
+The 2022 State of Agile Report shows an explosive growth in the use of Kanban—up from 7% of respondents in 2020 to 56% in 2022. 
 [Kanban use by remote teams](https://www.toptal.com/project-managers/agile-team-lead/agile-retrospective-remote-teams)
+Considering the global shift to remote work that happened in 2020, part of that increase is no doubt due to Kanban use by remote teams.
 [going hybrid](https://www.toptal.com/project-managers/agile/hybrid-project-management-a-middle-ground-between-agile-and-waterfall)
+That said, even with many businesses going hybrid or returning to the office, Kanban is still increasing in popularity. 
 [the most recent State of Kanban Report](https://kanban.university/wp-content/uploads/2022/10/State-of-Kanban-Report-2022.pdf)
-The 2022 State of Agile Report shows an explosive growth in the use of Kanban—up from 7% of respondents in 2020 to 56% in 2022. Considering the global shift to remote work that happened in 2020, part of that increase is no doubt due to Kanban use by remote teams.
-
-That said, even with many businesses going hybrid or returning to the office, Kanban is still increasing in popularity. According to the most recent State of Kanban Report, 41% of organizations are applying Kanban across more than 10 teams, with 86% of respondents planning to expand their Kanban initiatives in 2023. Understanding the history of the Kanban system will help you gain a deeper understanding of why it’s so popular, and how to best leverage it for your projects.
+According to the most recent State of Kanban Report, 41% of organizations are applying Kanban across more than 10 teams, with 86% of respondents planning to expand their Kanban initiatives in 2023. Understanding the history of the Kanban system will help you gain a deeper understanding of why it’s so popular, and how to best leverage it for your projects.
